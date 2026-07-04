@@ -6,7 +6,7 @@
 
 **RPG de mesa solo com um Mestre conduzido por IA — que narra, improvisa e reage a cada escolha sua. O mundo é perigoso, belo e vivo.**
 
-[![status](https://img.shields.io/badge/status-BETA-9F1239?style=for-the-badge)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)
+[![status](https://img.shields.io/badge/status-BETA-bf5af2?style=for-the-badge)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)
 &nbsp;
 [![Plataforma](https://img.shields.io/badge/Android-9F1239?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)
 
