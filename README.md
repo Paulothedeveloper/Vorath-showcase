@@ -92,18 +92,18 @@ O Vorath está em **teste aberto (BETA)** para Android — em breve na Google Pl
 
 ## 👤 Sobre o desenvolvedor
 
-**Paulo** é produtor de vídeo e desenvolvedor indie brasileiro. O Vorath nasceu do amor por RPG de mesa — a vontade de ter um Mestre implacável disponível a qualquer hora, num mundo de fantasia sombria, vivo e perigoso — e virou um app que ele agora compartilha com o mundo. Desenvolve de forma aberta e ouve a comunidade.
+<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-## 📜 Licença & aviso
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
-© 2026 Paulo Batista — **Vorath RPG**. App comercial; o código-fonte é privado (proprietário) — este repositório é a apresentação pública do projeto. A narrativa, as falas e as imagens são **geradas por IA** e ficcionais. Fontes Cinzel / Spectral / Inter sob suas próprias licenças (SIL Open Font License). Marcas de terceiros pertencem aos respectivos donos.
+<br clear="left" />
 
 ---
 
 <div align="center">
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) · 📸 [Instagram](https://instagram.com/paulo.videodev) · 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) · 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-<sub>Dark fantasy, vivo e perigoso. **O mundo é perigoso, belo e vivo — forje sua lenda.**</sub>
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
