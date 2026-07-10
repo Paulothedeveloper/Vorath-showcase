@@ -12,6 +12,10 @@
 
 [![Baixar — APK](https://img.shields.io/badge/⬇%20Baixar%20agora%20(APK)-9F1239?style=for-the-badge)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)
 
+[![Site](https://img.shields.io/badge/🌐%20Ver%20o%20site-0b0809?style=for-the-badge)](https://vorath-8199b.web.app)
+&nbsp;
+[![Trailer](https://img.shields.io/badge/▶%20Trailer-C62433?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/UDsYcH6cfBI)
+
 </div>
 
 ---
@@ -47,13 +51,13 @@ O Vorath é **grátis pra começar**. Cada palavra do Mestre custa energia — o
 
 - **100 tokens grátis** ao entrar — já dá pra sentir o mundo respirar.
 - **+5 tokens** por anúncio assistido (até 5 por dia). Paciência também vira ouro.
-- **Pacotes de tokens**, uma compra só, sem assinatura:
+- **Pacotes de tokens**, uma compra só, sem assinatura — quanto maior o pacote, mais barato o token:
   | Pacote | Tokens | Preço |
   |---|---|---|
-  | 🔥 Bolsa | 300 | **R$ 4,99** |
-  | 🔥 Saco | 1.000 | **R$ 14,99** |
-  | 🔥 Baú | 3.000 | **R$ 39,99** |
-- **Passe de Mestre** (assinatura), pra quem vive no mundo do Vorath: tokens todo mês, **sem anúncios**, ilustração rápida e brindes premium — **R$ 24,90/mês** ou **R$ 229/ano** (dois meses grátis).
+  | 🔥 Faísca | 100 | **R$ 4,90** |
+  | 🔥 Bolsa | 300 | **R$ 12,90** |
+  | 🔥 Saco · popular | 1.000 | **R$ 34,90** |
+  | 🔥 Baú · melhor valor | 3.000 | **R$ 79,90** |
 
 > As ilustrações de cena são geradas **de graça**, sem gastar seus tokens.
 
@@ -73,7 +77,7 @@ O Vorath é **grátis pra começar**. Cada palavra do Mestre custa energia — o
 
 ## 📥 Baixar
 
-O Vorath está em **teste aberto (BETA)** para Android — em breve na Google Play.
+O Vorath está em **beta** para Android — baixe o **APK** aberto abaixo. Também em **teste fechado na Google Play**; publicação pública em breve.
 
 ➡️ **[Baixar a última versão (APK)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)**
 
@@ -101,6 +105,8 @@ O Vorath está em **teste aberto (BETA)** para Android — em breve na Google Pl
 ---
 
 <div align="center">
+
+[Site](https://vorath-8199b.web.app) &nbsp;·&nbsp; [Trailer](https://youtu.be/UDsYcH6cfBI) &nbsp;·&nbsp; [Privacidade](https://vorath-8199b.web.app/privacidade) · [EN](https://vorath-8199b.web.app/privacy) &nbsp;·&nbsp; [Termos](https://vorath-8199b.web.app/termos) · [EN](https://vorath-8199b.web.app/terms)
 
 📧 [contato@paulocodex.com](mailto:contato@paulocodex.com) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulodev.codex) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
