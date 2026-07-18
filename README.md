@@ -34,6 +34,7 @@ Sem marcar mesa. Sem grupo. Sem trilho. Só você, o dado e a escuridão.
 - **Companheiros, pets e montarias** — recrute aliados, crie vínculos, evolua bichos de estimação e montarias que crescem junto com a sua lenda.
 - **Combate profundo** — HP/MP/SP/Vigor/CA/Ouro, dano, crítico, descanso, barra de vida dos inimigos, **bosses e mini-bosses**, dungeons e desafios. Loot que os monstros deixam cair.
 - **Tudo ilustrado** — classes, raças, gêneros de mundo, habilidades, itens e páginas de cena no estilo livro. Fantasia sombria em vermelho-lava e ouro rúnico, sem um único emoji.
+- **Do seu jeito** — jogue em **tema escuro ou claro (pergaminho)** e em **5 idiomas** (português, inglês, espanhol, francês, alemão). O Mestre narra na sua língua.
 
 ## 🔮 O Sigilo do Mestre
 
