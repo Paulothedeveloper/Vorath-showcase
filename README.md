@@ -4,7 +4,7 @@
 
 # Vorath RPG
 
-**RPG de mesa solo com um Mestre conduzido por IA — que narra, improvisa e reage a cada escolha sua. O mundo é perigoso, belo e vivo.**
+**RPG de mesa solo com um Mestre conduzido por IA, que narra, improvisa e reage a cada escolha sua. O mundo é perigoso, belo e vivo.**
 
 [![status](https://img.shields.io/badge/status-BETA-bf5af2?style=for-the-badge)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)
 &nbsp;
@@ -20,23 +20,23 @@
 
 ---
 
-Um Mestre de mesa que nunca dorme, nunca falta e nunca repete a mesma história. Você cria um herói, descreve o mundo, e o **Vorath** — o Mestre conduzido por IA — tece uma campanha de fantasia sombria feita só pra você: com dados de verdade, ficha viva, consequências permanentes e um mundo que segue seu próprio rumo enquanto você decide o seu.
+Um Mestre de mesa que nunca dorme, nunca falta e nunca repete a mesma história. Você cria um herói, descreve o mundo, e o **Vorath** (o Mestre conduzido por IA) tece uma campanha de fantasia sombria feita só pra você: com dados de verdade, ficha viva, consequências permanentes e um mundo que segue seu próprio rumo enquanto você decide o seu.
 
 Sem marcar mesa. Sem grupo. Sem trilho. Só você, o dado e a escuridão.
 
-## ⚔️ Por que jogar
+## Por que jogar
 
-- **Campanha solo infinita** — nada de fim de roteiro. A história nasce das suas escolhas e continua enquanto você quiser, salva automaticamente. Comece de novo num mundo completamente diferente quando bem entender.
-- **Um Mestre que reage de verdade** — o Vorath narra em prosa de grimório, dá voz a NPCs com vontade própria, cobra suas decisões e não tem pena. Escolhas erradas machucam; escolhas espertas viram lenda.
-- **26 sistemas de RPG de verdade** — atributos, EXP e nível, **evolução de classe estilo Ragnarök**, craft (ferreiro/alquimista), ouro e comércio, raridade de itens (comum → mítico), runas e aprimoramento +N, magia, sorte/karma/renome, facções (reinos, clãs, religiões, lealdade e traição), missões, eventos aleatórios, maldições e enfermidades.
-- **Dados 3D honestos** — o d20 rola na tela, girando de verdade. O Mestre rola sozinho quando a cena exige. Nada de resultado maquiado.
-- **Mapa com fog of war** — o mundo se revela conforme você explora. O escuro esconde o que você ainda não teve coragem de enfrentar.
-- **Companheiros, pets e montarias** — recrute aliados, crie vínculos, evolua bichos de estimação e montarias que crescem junto com a sua lenda.
-- **Combate profundo** — HP/MP/SP/Vigor/CA/Ouro, dano, crítico, descanso, barra de vida dos inimigos, **bosses e mini-bosses**, dungeons e desafios. Loot que os monstros deixam cair.
-- **Tudo ilustrado** — classes, raças, gêneros de mundo, habilidades, itens e páginas de cena no estilo livro. Fantasia sombria em vermelho-lava e ouro rúnico, sem um único emoji.
-- **Do seu jeito** — jogue em **tema escuro ou claro (pergaminho)** e em **5 idiomas** (português, inglês, espanhol, francês, alemão). O Mestre narra na sua língua.
+- **Campanha solo infinita:** nada de fim de roteiro. A história nasce das suas escolhas e continua enquanto você quiser, salva automaticamente. Comece de novo num mundo completamente diferente quando bem entender.
+- **Um Mestre que reage de verdade:** o Vorath narra em prosa de grimório, dá voz a NPCs com vontade própria, cobra suas decisões e não tem pena. Escolhas erradas machucam; escolhas espertas viram lenda.
+- **26 sistemas de RPG de verdade:** atributos, EXP e nível, **evolução de classe estilo Ragnarök**, craft (ferreiro/alquimista), ouro e comércio, raridade de itens (comum → mítico), runas e aprimoramento +N, magia, sorte/karma/renome, facções (reinos, clãs, religiões, lealdade e traição), missões, eventos aleatórios, maldições e enfermidades.
+- **Dados 3D honestos:** o d20 rola na tela, girando de verdade. O Mestre rola sozinho quando a cena exige. Nada de resultado maquiado.
+- **Mapa com fog of war:** o mundo se revela conforme você explora. O escuro esconde o que você ainda não teve coragem de enfrentar.
+- **Companheiros, pets e montarias:** recrute aliados, crie vínculos, evolua bichos de estimação e montarias que crescem junto com a sua lenda.
+- **Combate profundo:** HP/MP/SP/Vigor/CA/Ouro, dano, crítico, descanso, barra de vida dos inimigos, **bosses e mini-bosses**, dungeons e desafios. Loot que os monstros deixam cair.
+- **Tudo ilustrado:** classes, raças, gêneros de mundo, habilidades, itens e páginas de cena no estilo livro. Fantasia sombria em vermelho-lava e ouro rúnico, sem um único emoji.
+- **Do seu jeito:** jogue em **tema escuro ou claro (pergaminho)** e em **5 idiomas** (português, inglês, espanhol, francês, alemão). O Mestre narra na sua língua.
 
-## 🔮 O Sigilo do Mestre
+## O Sigilo do Mestre
 
 <div align="center">
 
@@ -46,23 +46,23 @@ Sem marcar mesa. Sem grupo. Sem trilho. Só você, o dado e a escuridão.
 
 </div>
 
-## 🎲 Como funciona
+## Como funciona
 
-O Vorath é **grátis pra começar**. Cada palavra do Mestre custa energia — os **tokens** — e você tem várias formas de manter a chama acesa, sem nunca ser obrigado a pagar pra jogar:
+O Vorath é **grátis pra começar**. Cada palavra do Mestre custa energia (os **tokens**) e você tem várias formas de manter a chama acesa, sem nunca ser obrigado a pagar pra jogar:
 
-- **100 tokens grátis** ao entrar — já dá pra sentir o mundo respirar.
+- **100 tokens grátis** ao entrar: já dá pra sentir o mundo respirar.
 - **+5 tokens** por anúncio assistido (até 5 por dia). Paciência também vira ouro.
-- **Pacotes de tokens**, uma compra só, sem assinatura — quanto maior o pacote, mais barato o token:
+- **Pacotes de tokens**, uma compra só, sem assinatura: quanto maior o pacote, mais barato o token:
   | Pacote | Tokens | Preço |
   |---|---|---|
-  | 🔥 Faísca | 100 | **R$ 4,90** |
-  | 🔥 Bolsa | 300 | **R$ 12,90** |
-  | 🔥 Saco · popular | 1.000 | **R$ 34,90** |
-  | 🔥 Baú · melhor valor | 3.000 | **R$ 79,90** |
+  | Faísca | 100 | **R$ 4,90** |
+  | Bolsa | 300 | **R$ 12,90** |
+  | Saco · popular | 1.000 | **R$ 34,90** |
+  | Baú · melhor valor | 3.000 | **R$ 79,90** |
 
 > As ilustrações de cena são geradas **de graça**, sem gastar seus tokens.
 
-## 📜 Veja o Mestre em ação
+## Veja o Mestre em ação
 
 <div align="center">
 
@@ -76,11 +76,11 @@ O Vorath é **grátis pra começar**. Cada palavra do Mestre custa energia — o
 
 </div>
 
-## 📥 Baixar
+## Baixar
 
-O Vorath está em **beta** para Android — baixe o **APK** aberto abaixo. Também em **teste fechado na Google Play**; publicação pública em breve.
+O Vorath está em **beta** para Android: baixe o **APK** aberto abaixo. Também em **teste fechado na Google Play**; publicação pública em breve.
 
-➡️ **[Baixar a última versão (APK)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)**
+**[Baixar a última versão (APK)](https://github.com/Paulothedeveloper/vorath-releases/releases/latest)**
 
 1. Abra o link acima e baixe o **APK** da última release.
 2. Instale no Android (permita instalar de "fontes desconhecidas").
@@ -88,18 +88,18 @@ O Vorath está em **beta** para Android — baixe o **APK** aberto abaixo. Tamb�
 
 **Saiba mais:** [paulocodex.com/p/vorath](https://paulocodex.com/p/vorath)
 
-## 🗡️ Como se joga
+## Como se joga
 
-1. **Crie seu herói** — nome, idade, gênero e traços físicos; raça e classe (cada uma ilustrada); alinhamento (14 variações que mudam a história) e 27 pontos de atributo. Sem ideia? Use um preset de história.
-2. **Molde o mundo** — escolha os gêneros (fantasia sombria, grimdark, terror, isekai, pós-apocalíptico e mais) e o cenário inicial.
-3. **Viva a campanha** — converse com o Mestre, aja, role o dado, gerencie a ficha, explore o mapa, recrute companheiros e enfrente o que a escuridão guarda.
-4. **Continue** — várias campanhas em paralelo, tudo salvo automaticamente.
+1. **Crie seu herói:** nome, idade, gênero e traços físicos; raça e classe (cada uma ilustrada); alinhamento (14 variações que mudam a história) e 27 pontos de atributo. Sem ideia? Use um preset de história.
+2. **Molde o mundo:** escolha os gêneros (fantasia sombria, grimdark, terror, isekai, pós-apocalíptico e mais) e o cenário inicial.
+3. **Viva a campanha:** converse com o Mestre, aja, role o dado, gerencie a ficha, explore o mapa, recrute companheiros e enfrente o que a escuridão guarda.
+4. **Continue:** várias campanhas em paralelo, tudo salvo automaticamente.
 
-## 👤 Sobre o desenvolvedor
+## Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele (código + identidade visual, motion e material de lançamento) do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
 <br clear="left" />
 
@@ -111,6 +111,6 @@ O Vorath está em **beta** para Android — baixe o **APK** aberto abaixo. Tamb�
 
 📧 [contato@paulocodex.com](mailto:contato@paulocodex.com) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulodev.codex) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
-_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+_Repositório de **apresentação pública**: o código-fonte é fechado. Nada de dado ou segredo aqui._
 
 </div>
